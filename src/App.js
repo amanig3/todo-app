@@ -14,7 +14,7 @@ const todoStart = [
 function App() {
   return (
     <>
-    <Navbar username={"amanig"}/>
+    <Navbar username="amanig"/>
     <Todos todoStart={todoStart}/>
     </>
   );
